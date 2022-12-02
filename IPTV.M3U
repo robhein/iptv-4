@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,Star Sports 1 HD in
 https://tv.bdflix.xyz/Star_Sports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,T Sports HD2
-http://103.102.27.173/live/tvfeed1002/index.m3u8
-#EXTINF:-1 ,T Sports HD3
-http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-#EXTINF:-1 ,Gazi TV HD
-http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 ,Gazi TV HD2
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-1 ,A Sports HD2
