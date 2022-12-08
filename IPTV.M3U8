@@ -35,8 +35,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 #EXTINF:-1 ,Colors HD
 http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
-#EXTINF:-1 ,DOYEL TV
-http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
 #EXTINF:-1 ,Star Jalsa sd
 http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
 #EXTINF:-1 ,Star Jalsa HD
@@ -57,23 +55,21 @@ http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 ,Star World HD 
+#EXTINF:-1 ,Star World HD
 http://175.107.244.52:4455/play/a01h/index.m3u8
-#EXTINF:-1 ,TLC HD 
+#EXTINF:-1 ,TLC HD
 http://175.107.244.52:4455/play/a01p/index.m3u8
 #EXTINF:-1 ,MASTI
 http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,Zoom
-http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,Gaan Bangla
 http://208.86.19.13:81/612.stream/index.m3u8
 #EXTINF:-1 ,Music India
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
-#EXTINF:-1 ,Ary Digital HD 
+#EXTINF:-1 ,Ary Digital HD
 http://208.86.19.13:81/627.stream/index.m3u8
 #EXTINF:-1 ,Hungama TV
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,CGTN 
+#EXTINF:-1 ,CGTN
 http://iptv.prosto.tv:7000/ch84/video.m3u8
 #EXTINF:-1 ,NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
@@ -99,16 +95,8 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 #EXTINF:-1 ,arabic fifa
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
-#EXTINF:-1 ,Sony Aath 
-http://172.16.29.250/hls/Sony_Aath.m3u8
-#EXTINF:-1 ,Star Jalsha HD Live 
-http://172.16.29.250/hls/starjalsha.m3u8
 #EXTINF:-1 group-title="KIDS",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 group-title="KIDS",Disney JR
-http://190.83.119.67:8000/play/a0pb/index.m3u8
-#EXTINF:-1 group-title="KIDS",Nick Jr.
-http://190.83.119.67:8000/play/a0p9/index.m3u8
 #EXTINF:-1 group-title="KIDS",O Kids
 http://51.210.199.11/hls/stream.m3u8
 #EXTINF:-1 group-title="KIDS",O Kids Movies
@@ -155,8 +143,6 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_360.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_180.m3u8
 #EXTINF:-1 ,Live Sports 3
 https://tv.bdflix.xyz/Gazi_TV/index.m3u8
-#EXTINF:-1 ,BTV National
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 ,Sony Aath
 https://tv.bdflix.xyz/Sony-Aath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Zee Bangla
@@ -191,8 +177,6 @@ https://tv.bdflix.xyz/Sony_Pix/index.m3u8
 https://tv.bdflix.xyz/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BTV World(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 ,Channel I(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,Ekushay TV(BDIX)
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 ,Ekushey TV(BD2)
@@ -231,8 +215,6 @@ http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 ,Bein Sports 1 English(BD)
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
-#EXTINF:-1 ,Bein Sports 3 English(BD)
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 ,Discovery HD(BD3)
 https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
 #EXTINF:-1 group-title="BD",Xlpore English(BD)
@@ -243,8 +225,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 ,ROYEL TV [BD]
 https://cdn.appv.jagobd.com:444/live-orgin/royaltv.stream/chunks.m3u8
-#EXTINF:-1 ,DOYEL TV [BD]
-https://cdn.appv.jagobd.com:444/live-orgin/doyeltv.stream/chunks.m3u8
 #EXTINF:-1 ,NAN IPTV [BD]
 https://cdn.appv.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
 #EXTINF:-1 ,TiMES 24 IPTV
@@ -257,30 +237,6 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 ,TV
 https://live.thairath.co.th/trtv2/playlist.m3u8
-#EXTINF:-1 ,Independent TV 
-http://172.16.29.250/hls/indepen.m3u8
-#EXTINF:-1 ,Shomoy TV 
-http://172.16.29.250/hls/somoy.m3u8
-#EXTINF:-1 ,GTV HD
-http://172.16.29.250/hls/Gazi-TV.m3u8
-#EXTINF:-1 ,Nexus TV 
-http://172.16.29.250/hls/nexus.m3u8
-#EXTINF:-1 ,Maasranga 
-http://172.16.29.250/hls/masranga.m3u8
-#EXTINF:-1 ,Star Sports 2 HD 
-http://172.16.29.250/hls/starsports2.m3u8
-#EXTINF:-1 ,Star Sports Select 1 HD
-http://172.16.29.250/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 ,Star Sports Select 2 HD
-http://172.16.29.250/hls/select2.m3u8
-#EXTINF:-1 ,Sony Six HD 
-http://172.16.29.250/hls/sonysix.m3u8
-#EXTINF:-1 ,Sony Ten 1 HD 
-http://172.16.29.250/hls/sonyten1.m3u8
-#EXTINF:-1 ,Sony Ten 2 HD 
-http://172.16.29.250/hls/sonyten2.m3u8
-#EXTINF:-1 ,Sony Ten 3 HD 
-http://172.16.29.250/hls/sonyten3.m3u8
 #EXTINF:-1 ,Zee TV HD
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
 #EXTINF:-1 ,Star Plus HD
@@ -289,8 +245,6 @@ http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8?token=test
 https://siloh.pluto.tv/lilo/production/Nick/01/master_4.m3u8
 #EXTINF:-1 ,Rangeen TV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
-#EXTINF:-1 ,Star Jalsha 3
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69322
 #EXTINF:-1 ,MBC_korea
 http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8
 #EXTINF:-1 ,CCTV5_China
@@ -299,19 +253,13 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
 http://92.46.127.146:8080/qazsport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,CANAL SPORTS 10 🇳🇮
 http://138.117.4.70:8075/channel10/playlist.m3u8
-#EXTINF:-1 ,TRACE SPORTS
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 ,J Sports 1
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
-#EXTINF:-1 , World cup
-http://172.16.29.242:8080/fnet/live1/index.m3u8
-#EXTINF:-1 ,India World Cup 
-http://172.16.29.28:8080/hls/live1-fnet.m3u8
-#EXTINF:-1 ,Sony Ten 1 HD 
+#EXTINF:-1 ,Sony Ten 1 HD
 http://175.107.244.52:4455/play/a01k/index.m3u8
-#EXTINF:-1 ,Star S Hin 1 HD 
+#EXTINF:-1 ,Star S Hin 1 HD
 http://175.107.244.52:4455/play/a01m/index.m3u8
-#EXTINF:-1 ,Star Sports 2 HD 
+#EXTINF:-1 ,Star Sports 2 HD
 http://175.107.244.52:4455/play/a01j/index.m3u8
 #EXTINF:-1 ,BEIN SPORT 3 🇬🇧
 http://175.107.244.52:4457/play/a06x/index.m3u8
@@ -319,7 +267,7 @@ http://175.107.244.52:4457/play/a06x/index.m3u8
 http://175.107.244.52:4457/play/a070/index.m3u8
 #EXTINF:-1 ,Bein Sports 5 Arabic 🇶🇦
 http://175.107.244.52:4457/play/a06y/index.m3u8
-#EXTINF:-1 ,SIX HD 
+#EXTINF:-1 ,SIX HD
 http://175.107.244.52:4455/play/a01l/index.m3u8
 #EXTINF:-1 ,BARSA TV
 http://154.62.74.29:1935/live/barza/chunklist.m3u8
@@ -327,8 +275,6 @@ http://154.62.74.29:1935/live/barza/chunklist.m3u8
 http://175.107.244.52:4457/play/a06z/index.m3u8
 #EXTINF:-1 ,RTK 1 FIFA World Cup ⚽️
 http://146.59.19.1/5002/mpegts?
-#EXTINF:-1 ,Live FIFA 
-http://115319322366311939.nicene.xyz:80/play/vi1031409/2034853628/311939.ts
 #EXTINF:-1 ,Sports TV1
 http://comag.rip:8000/50738601689735/03751643107136/66469
 #EXTINF:-1 ,JAGONEWS 24 TV Jagobd
@@ -337,13 +283,11 @@ http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/boulive.stream/chunks.m3u8
 #EXTINF:-1 ,iTV Official
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 ,Doyel TV Jagobd
-http://iptvbd.jagobd.com:1931/live-orgin/doyeltv.stream/chunks.m3u8
-#EXTINF:-1 ,DesheBideshe TV 
+#EXTINF:-1 ,DesheBideshe TV
 http://ipm.oncast.me:1932/iplived/iptvdeshebideshe.stream/playlist.m3u8
 #EXTINF:-1 ,NAN TV Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
-#EXTINF:-1 ,NAN TV 
+#EXTINF:-1 ,NAN TV
 http://live.priyoiptv.com:1932/priyoiptv/nantv.stream/chunks.m3u8
 #EXTINF:-1 ,VOICE TV Jagobd
 http://iptvbd.jagobd.com:1931/live-orgin/voicetv.stream/chunks.m3u8
@@ -361,9 +305,9 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8?token=test
 http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 group-title="DIRECT-TV",UTV ACTION (IN)
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
-#EXTINF:-1 group-title="",HUM Sitary PK
+#EXTINF:-1 ,HUM Sitary PK
 http://208.86.19.13:81/692.stream/index.m3u8
-#EXTINF:-1 group-title="",EXpress PK
+#EXTINF:-1 ,EXpress PK
 http://208.86.19.13:81/643.stream/index.m3u8
 #EXTINF:-1 ,&PRIVE HD  Live IPTV
 http://175.107.244.52:4455/play/a00x/index.m3u8
@@ -455,104 +399,64 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 #EXTINF:-1 ,Star movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
-#EXTINF:-1 ,Live World cup 4
-http://51.79.82.208:16417
 #EXTINF:-1 ,EDGE
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,MAASRANGA TV official
 http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
-#EXTINF:-1 ,EKUSHEY TV 
+#EXTINF:-1 ,EKUSHEY TV
 http://208.86.19.13:81/660.stream/index.m3u8
-#EXTINF:-1 ,MY TV 
+#EXTINF:-1 ,MY TV
 http://208.86.19.13:81/651.stream/index.m3u8
-#EXTINF:-1 ,DesheBideshe TV 
+#EXTINF:-1 ,DesheBideshe TV
 http://208.86.19.13:81/505.stream/index.m3u8
-#EXTINF:-1 ,BanglachannelNY
-http://jupiter.bdcabletv.com/BanglachannelNY/video.m3u8
-#EXTINF:-1 ,Channel S UK 
+#EXTINF:-1 ,Channel S UK
 http://208.86.19.13:81/519.stream/index.m3u8
 #EXTINF:-1 ,NANDAN Official
 https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 #EXTINF:-1 ,TBN24 TV UK Official
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ATN Music Jago
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 ,Iqra Bangla
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
-#EXTINF:-1 ,Discovery Channel 
-http://190.83.119.67:8000/play/a0tb/index.m3u8
-#EXTINF:-1 ,Discovery World HD
-http://190.83.119.67:8000/play/a0tc/index.m3u8
-#EXTINF:-1 ,Discovery ID HD
-http://190.83.119.67:8000/play/a0tf/index.m3u8
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
-http://190.83.119.67:8000/play/a0t8/index.m3u8
-#EXTINF:-1 ,Animal Planet HD
-http://190.83.119.67:8000/play/a0sb/index.m3u8
-#EXTINF:-1 ,Animal Planet HD
-http://190.83.119.67:8000/play/a0q4/index.m3u8
-#EXTINF:-1 ,TLC 
-http://190.83.119.67:8000/play/a0sd/index.m3u8
-#EXTINF:-1 ,History HD
-http://190.83.119.67:8000/play/a0px/index.m3u8
-#EXTINF:-1 ,SPACE 
-http://190.83.119.67:8000/play/a0ph/index.m3u8
-#EXTINF:-1 ,Star Channel HD
-http://190.83.119.67:8000/play/a0si/index.m3u8
-#EXTINF:-1 ,Sony 
-http://190.83.119.67:8000/play/a0s5/index.m3u8
-#EXTINF:-1 ,Sony HD 
-http://190.83.119.67:8000/play/a0sk/index.m3u8
 #EXTINF:-1 ,wow-tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 ,G TV S2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1 ,Star Plus HD 
+#EXTINF:-1 ,Star Plus HD
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,ATN Bangla2
 http://87.212.248.44:60230/play/a05g/index.m3u8
-#EXTINF:-1 group-title="",24 hrs tv2
+#EXTINF:-1 ,24 hrs tv2
 http://178.128.60.200:80/hls/stream2.m3u8
-#EXTINF:-1 group-title="",Bangla Jago
+#EXTINF:-1 ,Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-#EXTINF:-1 group-title="",Hollywood HD
+#EXTINF:-1 ,Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
-#EXTINF:-1 group-title="",Movie Sphere
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 ,BBC News
 http://ip2121.com:8081/live/bbc/playlist.m3u8
-#EXTINF:-1 group-title="",E24
+#EXTINF:-1 ,E24
 http://208.86.19.13:81/719.stream/index.m3u8
-#EXTINF:-1 group-title="",MY tv
+#EXTINF:-1 ,MY tv
 http://208.86.19.13:81/624.stream/index.m3u8
-#EXTINF:-1 group-title="",STAR PLUS HD (IN)
+#EXTINF:-1 ,STAR PLUS HD (IN)
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
-#EXTINF:-1 group-title="",COLORS HD (IN)
+#EXTINF:-1 ,COLORS HD (IN)
 http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
-#EXTINF:-1 group-title="",SAHARA ONE (IN)
+#EXTINF:-1 ,SAHARA ONE (IN)
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8?token=test
-#EXTINF:-1 group-title="",UTV HD (IN)
+#EXTINF:-1 ,UTV HD (IN)
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="",B4U MUSIC (IN)
+#EXTINF:-1 ,B4U MUSIC (IN)
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="",9XM
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 group-title="",Desh Tv
+#EXTINF:-1 ,Desh Tv
 http://208.86.19.13:81/661.stream/index.m3u8
-#EXTINF:-1 ,Jamuna News 
-http://172.16.29.250/hls/jamuna.m3u8
 #EXTINF:-1 ,Sangeet Bangla
 https://tv.googledrivelinks.com/live.php?c=Sangeet_Bangla&q=600
-#EXTINF:-1 ,Ten Sports HD 
-http://172.16.29.250/hls/ten.m3u8
-#EXTINF:-1 ,Zee Bangla HD 
+#EXTINF:-1 ,Zee Bangla HD
 https://tv.googledrivelinks.com/live.php?c=Zee_Bangla&q=800&e=.m3u8
-#EXTINF:-1 ,EKATTOR TV 
+#EXTINF:-1 ,EKATTOR TV
 http://208.86.19.13:81/675.stream/index.m3u8
 #EXTINF:-1 ,EKUSHEY Official-1
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,Magicbangla TV jago
-https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 #EXTINF:-1 ,Bangla 21 TV
 http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 ,HIGH NEWS
@@ -567,8 +471,6 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 #EXTINF:-1 ,Wow Kids
 https://catchup.yuppcdn.net/amazonv2/37/preview/wowkidzhin/master/chunklist.m3u8
-#EXTINF:-1 ,Sony Six HD 720P
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 ,Sony Six HD 360P
 https://tv.googledrivelinks.com/live.php?c=Six_HD&q=400&e=.m3u8
 #EXTINF:-1 ,Sony Six HD 240P
@@ -581,19 +483,17 @@ http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/playlist.m3u8
 #EXTINF:-1 ,CNN
 http://ip2121.com:8081/live/cnn/playlist.m3u8
-#EXTINF:-1 ,BBC Earth
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 ,SONY MAX-2  Live IPTV
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,Live Sports-4
 https://tv.googledrivelinks.com:443/autoq.php?c=Jio_Cricket&e=.m3u8
-#EXTINF:-1 group-title=" Live IPTV",B4U Music
+#EXTINF:-1 group-title="Live IPTV",B4U Music
 http://208.86.19.13:81/733.stream/index.m3u8
-#EXTINF:-1 group-title="",Duronto Tv
+#EXTINF:-1 ,Duronto Tv
 http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="",Iqra Bangla
+#EXTINF:-1 ,Iqra Bangla
 http://208.86.19.13:81/507.stream/index.m3u8
-#EXTINF:-1 group-title="",IB Tv Usa
+#EXTINF:-1 ,IB Tv Usa
 http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:-1 ,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
@@ -603,11 +503,11 @@ http://208.86.19.13:81/603.stream/index.m3u8
 http://175.107.244.52:4455/play/a00n/index.m3u8
 #EXTINF:-1 ,DESHI TV
 http://208.86.19.13:81/514.stream/index.m3u8
-#EXTINF:-1 group-title=" Live IPTV",Amar Bangla
+#EXTINF:-1 group-title="Live IPTV",Amar Bangla
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
-#EXTINF:-1 group-title="",দ্বীপ্ত টিভি
+#EXTINF:-1 ,দ্বীপ্ত টিভি
 http://208.86.19.13:81/677.stream/index.m3u8
-#EXTINF:-1 group-title=" Live IPTV",MTV BEATES HD
+#EXTINF:-1 group-title="Live IPTV",MTV BEATES HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
 #EXTINF:-1 ,MTV 90s
 http://85.17.17.249/mtv_rocks/index.m3u8
@@ -617,14 +517,8 @@ http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 #EXTINF:-1 ,MOVIES NOW
 http://175.107.244.52:4455/play/a025/index.m3u8
-#EXTINF:-1 ,Star Jalsha HD bd
-http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/198748
 #EXTINF:-1 ,Star Jalsha 21
 http://daddyserver.com:8080/@blades41/qTyguNhMRK/120895
-#EXTINF:-1 ,Star Jalsha 31
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/198748
-#EXTINF:-1 ,star jalsha backup
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69319
 #EXTINF:-1 ,Sony Aath
 http://103.132.181.98:81/play/a009
 #EXTINF:-1 ,Sony AAth
@@ -637,7 +531,5 @@ http://iptvtree.net:8080/AtomicStreams/f584627a/145632
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:-1 ,Sony Ten 4
 https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
-#EXTINF:-1 ,beINSPORTS 2 HD+
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 ,MTV WMA HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
