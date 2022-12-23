@@ -12,25 +12,24 @@
 ## Freemiumpro(All paid channels free)
 
 ```bash
-  git clone https://link-to-project
+  https://nymurbd.github.io/iptv/playlist/freemiumpro.m3u8
 ```
 
 ## IPTV (BDIX CONNECTED CHANNELS HARE)
 
-```bash
-  cd my-project
-```
+````bash
+  https://nymurbd.github.io/iptv/playlist/iptv.m3u8
 
 ## SPORTS CHANNLES
 
 ```bash
-  npm install
-```
+  https://nymurbd.github.io/iptv/playlist/sports.m3u8
+````
 
 ## RANDOM CHANNELS
 
 ```bash
-  npm run start
+  https://nymurbd.github.io/iptv/playlist/freemium.m3u8
 ```
 
 ## Apps
