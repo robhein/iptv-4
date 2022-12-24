@@ -14,25 +14,25 @@
 ## Freemiumpro(All paid channels free)
 
 ```bash
-  https://nymurbd.github.io/iptv/playlist/freemiumpro.m3u8
+  https://nymurbd.github.io/iptv/playlist/freemiumpro.m3u
 ```
 
 ## IPTV (BDIX CONNECTED CHANNELS HARE)
 
 ```bash
-  https://nymurbd.github.io/iptv/playlist/iptv.m3u8
+  https://nymurbd.github.io/iptv/playlist/iptv.m3u
 ```
 
 ## SPORTS CHANNLES
 
 ```bash
-  https://nymurbd.github.io/iptv/playlist/sports.m3u8
+  https://nymurbd.github.io/iptv/playlist/sports.m3u
 ```
 
 ## RANDOM CHANNELS
 
 ```bash
-  https://nymurbd.github.io/iptv/playlist/freemium.m3u8
+  https://nymurbd.github.io/iptv/playlist/freemium.m3u
 ```
 
 ## Apps
